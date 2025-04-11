@@ -52,7 +52,7 @@ Scikit-learn
 
 📌 How to Use
 Clone this repository
-git clone https://github.com/your-username/land-use-analysis-india.git
+git clone https://github.com/rachit-448/agri-land-insights.git
 
 Install dependencies
 pip install -r requirements.txt
